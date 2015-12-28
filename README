@@ -1,1 +1,6 @@
 This is basic understanding the git and github.
+
+GITHUB commands for create project at local computer
+
+$ git init - Its for initialize the git repo
+$ git pull - its for copying repo from github
